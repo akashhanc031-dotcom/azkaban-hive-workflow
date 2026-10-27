@@ -1,0 +1,3 @@
+
+type=command
+command=/home/akash/Desktop/Akash/hive/bin/hive -f department_summary.hql
